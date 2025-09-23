@@ -7,7 +7,7 @@
 ### Contact Information
 
 **Email:** alex.johnson.dev@example.com  
-**Phone:** +1 (555) 123-4567  
+**Phone:** +1 (100) 123-4567  
 **GitHub:** [github.com/alexjohnson-dev](https://github.com/alexjohnson-dev)  
 **LinkedIn:** [linkedin.com/in/alexjohnson](https://linkedin.com/in/alexjohnson)
 
